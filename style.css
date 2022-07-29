@@ -1,0 +1,80 @@
+.carousel-inner {
+  border-radius: 25px;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.card {
+  border-radius: 30px;
+}
+
+.card-img-top {
+  border-radius: 30px;
+}
+
+.card-footer {
+  border-radius: 30px;
+}
+
+.page-contact h3 {
+  font-size: 24px;
+  color: #979797;
+  font-weight: 400;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.page-contact .store-contact {
+  padding: 30px 30px 10px 30px;
+}
+
+.page-contact .contact-keterangan {
+  font-size: 24px;
+  color: #0f0f0f;
+  font-weight: 400;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.page-contact .contact-keterangan h4 {
+  font-size: 32px;
+}
+
+.page-contact .contact-text-libur {
+  font-size: 24px;
+  color: #f30707;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.page-contact .card {
+  margin-top: 5px;
+  margin-left: 65px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+footer {
+  border-top: 1px solid #e4e4e4;
+  margin-top: 150px;
+}
+
+footer p {
+  color: #979797;
+}
+
+.col-md-3 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
